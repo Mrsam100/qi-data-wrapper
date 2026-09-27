@@ -1,0 +1,10 @@
+.env
+.env.local
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.egg-info/
+data/raw/
+data/normalized/
+*.parquet
